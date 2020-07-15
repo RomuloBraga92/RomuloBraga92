@@ -13,7 +13,7 @@
 - :books: Graduated by **IME** and an eternal web/mobile development student! 
 
 - ⚡ Fun facts: 
-  - Graduated Telecommunication Engineer 📡
+  - Graduated in Telecommunication Engineering 📡
   - Zouk and Bachata dancer 🕺🏻
   - Fitness addicted 🏋🏻
   - Always is coffee time ☕
