@@ -8,7 +8,7 @@
 
 ### Hey! What's up? 👋
 
-- :man_technologist: **Fullstack** web developer. In a love case with **Front-end**!
+- :man_technologist: **Fullstack** web developer. Passionate about **Front-end**!
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduated by **IME** and an eternal web/mobile development student! 
 
